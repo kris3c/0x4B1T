@@ -15,5 +15,5 @@ We also have a WhatsApp Community where professionals and learners connect, coll
 #### Latest Content Update: 30-03-2025
 
 - Article
-  - [Vim: The Exit Command]([https://kris3c.github.io/article/vim-the-exit-command](https://github.com/kris3c/0x4B1T/blob/main/article%20%20/vim-the-exit-command.md)), March 30,2025
+  - [Vim: The Exit Command]([https://kris3c.github.io/article/vim-the-exit-command](https://github.com/kris3c/0x4B1T/blob/main/article%20%20/vim-the-exit-command.md), March 30,2025
 
